@@ -1,7 +1,5 @@
 <!-- 🔥 Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pravin+Rathod;Full+Stack+Developer;AI+Enthusiast;Building+AI-Powered+Applications;MERN+Stack+%7C+LLMs+%7C+Edge+AI&repeat=true" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pravin+Rathod;Full+Stack+Developer;AI+Enthusiast;Building+AI-Powered+Applications;MERN+Stack+%7C+LLMs+%7C+Edge+AI" /> </p>
 
 <!-- 👀 Visitor Counter -->
 <p align="center">
