@@ -83,8 +83,8 @@ I build scalable web applications and integrate AI to create intelligent, real-w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pravin-rathod-git&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-rathod-git&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ I build scalable web applications and integrate AI to create intelligent, real-w
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pravin-rathod-git&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
@@ -100,7 +100,7 @@ I build scalable web applications and integrate AI to create intelligent, real-w
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravin-rathod-git&theme=tokyo-night" />
 </p>
 
 ---
