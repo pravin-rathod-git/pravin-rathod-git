@@ -1,6 +1,14 @@
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pravin+Rathod;Full+Stack+Developer;AI+Enthusiast;Building+AI-Powered+Applications;MERN+Stack+%7C+LLMs+%7C+Edge+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pravin+Rathod" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=FF5733&center=true&vCenter=true&width=800&lines=Full+Stack+Developer" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=FFD700&center=true&vCenter=true&width=800&lines=AI+Enthusiast" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=32CD32&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2000&color=8A2BE2&center=true&vCenter=true&width=800&lines=MERN+Stack+%7C+LLMs+%7C+Edge+AI" />
 </p>
 
 <!-- 👀 Visitor Counter -->
