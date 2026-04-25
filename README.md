@@ -89,11 +89,7 @@ I build scalable web applications and integrate AI to create intelligent, real-w
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pravin-rathod-git&theme=tokyonight&row=1&column=6" />
-</p>
 
 ---
 
