@@ -20,7 +20,7 @@ I build scalable web applications and integrate AI to create intelligent, real-w
 
 - 🎓 Final Year Engineering Student  
 - 💻 MERN Stack Developer  
-- 🤖 Working with LLMs (Gemini, OpenRouter)  
+- 🤖 Working with LLMs (OpenAI,MistralAI,Gemini, OpenRouter)  
 - ⚡ Focused on real-world, production-ready projects  
 - 🎯 Preparing for product-based companies  
 
