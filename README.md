@@ -132,7 +132,6 @@ I build scalable web applications and AI-powered systems using modern technologi
 ### Features:
 - AI Caption Generation
 - Real-time Like, Comment & Save
-- Smart Feed System
 - Stories + Reels Functionality
 - MERN + Gemini Integration
 
@@ -148,7 +147,6 @@ I build scalable web applications and AI-powered systems using modern technologi
 - AI Answer Evaluation
 - Dynamic Interview Generation
 - Payment Integration
-- LLM Workflow Automation
 
 ### Tech:
 `LangChain` `LLMs` `Node.js` `React` `MongoDB`
