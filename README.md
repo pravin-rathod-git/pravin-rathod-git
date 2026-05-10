@@ -1,132 +1,231 @@
-<!-- 🔥 Animated Typing Header -->
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Pravin+Rathod;Full+Stack+Developer;AI+Enthusiast;Building+AI-Powered+Applications;MERN+Stack+%7C+LLMs+%7C+Edge+AI;Generative+AI" /> </p>
+```md
+<!-- =========================
+     Animated Header
+========================= -->
 
-<!-- 👀 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Pravin+Rathod;Full+Stack+Developer;AI+Engineer+%7C+LLM+Developer;Building+AI-Powered+Applications;MERN+Stack+%7C+LangChain+%7C+RAG+%7C+Edge+AI;Generative+AI+Enthusiast" />
+</p>
+
+<!-- =========================
+     Visitor Counter
+========================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pravin-rathod-git&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 # 👋 Hi, I'm Pravin Rathod
 
-🚀 Full Stack Developer | 🤖 AI Enthusiast | 💡 Problem Solver  
+### 🚀 Full Stack Developer | 🤖 AI Engineer | 💡 Problem Solver
 
-I build scalable web applications and integrate AI to create intelligent, real-world solutions.
-
----
-
-## 🧠 About Me
-
-- 🎓 Final Year Engineering Student  
-- 💻 MERN Stack Developer  
-- 🤖 Working with LLMs (OpenAI,MistralAI,Gemini, OpenRouter)  
-- ⚡ Focused on real-world, production-ready projects  
-- 🎯 Preparing for product-based companies  
+I build scalable web applications and AI-powered systems using modern technologies like LLMs, RAG pipelines, LangChain, and MERN Stack.
 
 ---
 
-## 🚀 What I’m Working On
+# 🧠 About Me
 
-- 🌐 AI-Powered Social Media App (Gemini Integration)  
-- 🤖 AI Interview Platform (LLM-based system)  
-- 🍅 Crop Maturity Detection using Edge AI  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-
-### 🤖 AI / ML
-![Gemini](https://img.shields.io/badge/Gemini_AI-000?style=for-the-badge&logo=google)
-![LLM](https://img.shields.io/badge/LLM-000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-000?style=for-the-badge)
+- 🎓 Final Year Engineering Student
+- 💻 MERN Stack Developer
+- 🤖 AI/LLM Enthusiast
+- 🔥 Building production-ready AI applications
+- 📚 Exploring Generative AI, RAG & Agentic Workflows
+- ⚡ Focused on Backend + AI Engineering
+- 🎯 Preparing for Product-Based Companies
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Currently Working On
 
-### 🌐 AI Social Media App
-- AI Caption Generation + Chat Summarization  
-- Real-time interactions (like, comment, save)  
-- MERN + Gemini Integration  
+### 🌐 AI-Powered Social Media Platform
+- AI Caption Generation
+- Smart Chat Summarization
+- AI-based Feed Enhancements
+- MERN + Gemini Integration
 
 ### 🤖 AI Interview Platform
-- Resume-based question generation  
-- AI feedback system  
-- Razorpay integration  
+- Resume-based Question Generation
+- AI Evaluation & Feedback System
+- Razorpay Payment Integration
+- LangChain Workflow Integration
 
-### 🍅 Crop Maturity Detection
-- Edge AI using Jetson Nano  
-- Real-time classification  
+### 🍅 Crop Maturity Detection using Edge AI
+- Real-time Detection using Jetson Nano
+- Deep Learning-based Classification
+- Edge AI Deployment
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pravin-rathod-git&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-rathod-git&layout=compact&theme=tokyonight" />
+## 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
 
+## 🌐 Frontend
 
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravin-rathod-git&theme=tokyo-night" />
+<p>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
 ---
 
-## 🎯 Goals
+## ⚙️ Backend
 
-- 🚀 Crack a product-based company  
-- 🤖 Become AI Engineer + Backend Expert  
-- 💡 Build impactful AI products  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT_Auth-000?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🗄 Database
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+# 🤖 AI / Generative AI Stack
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google"/>
+  <img src="https://img.shields.io/badge/LangChain-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector_Database-000?style=for-the-badge"/>
+</p>
+
+---
+
+# 🧠 AI / ML Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Computer_Vision-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edge_AI-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson_Nano-000?style=for-the-badge&logo=nvidia"/>
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🌐 AI Social Media App
+
+### Features:
+- AI Caption Generation
+- Real-time Like, Comment & Save
+- Smart Feed System
+- Stories + Reels Functionality
+- MERN + Gemini Integration
+
+### Tech:
+`React` `Redux` `Node.js` `MongoDB` `Gemini API`
+
+---
+
+## 🤖 AI Interview Platform
+
+### Features:
+- Resume-based AI Questions
+- AI Answer Evaluation
+- Dynamic Interview Generation
+- Payment Integration
+- LLM Workflow Automation
+
+### Tech:
+`LangChain` `LLMs` `Node.js` `React` `MongoDB`
+
+---
+
+## 🍅 Crop Maturity Detection
+
+### Features:
+- Real-time Classification
+- Edge Deployment
+- Deep Learning Inference
+- Optimized for Jetson Nano
+
+### Models Used:
+`ConvNeXt-Tiny` `EfficientNetV2B0` `MobileNetV2`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pravin-rathod-git&show_icons=true&theme=tokyonight"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravin-rathod-git&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravin-rathod-git&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 Goals
+
+- 🚀 Crack a Product-Based Company
+- 🤖 Become an AI Engineer + Backend Expert
+- 🧠 Build Advanced AI Systems
+- 🌍 Develop Real-world AI Products
+- ⚡ Master Agentic AI Workflows
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+  
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="https://your-portfolio-link">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
+
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
   </a>
+
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-I don’t just write code — I build intelligent systems powered by AI.
+> I don’t just write code — I build intelligent systems powered by AI.
 
 ---
 
-⭐ *If you like my work, give a star to my repositories!*
+# ⭐ Support
+
+If you like my projects, consider giving them a ⭐ on GitHub!
+
+```
