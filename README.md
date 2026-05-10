@@ -1,4 +1,4 @@
-```md
+
 <!-- =========================
      Animated Header
 ========================= -->
@@ -228,4 +228,3 @@ I build scalable web applications and AI-powered systems using modern technologi
 
 If you like my projects, consider giving them a ⭐ on GitHub!
 
-```
