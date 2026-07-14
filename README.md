@@ -202,7 +202,7 @@ I build scalable web applications and AI-powered systems using modern technologi
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="https://your-portfolio-link">
+  <a href="[https://your-portfolio-link](https://pravin-rathod-git.github.io/MY-Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
 
