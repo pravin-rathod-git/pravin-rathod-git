@@ -198,7 +198,7 @@ I build scalable web applications and AI-powered systems using modern technologi
 
 <p align="center">
   
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pravin-rathod-237418303/)">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
 
@@ -206,7 +206,7 @@ I build scalable web applications and AI-powered systems using modern technologi
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:pr819270@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
   </a>
 
