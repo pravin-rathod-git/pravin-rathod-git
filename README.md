@@ -198,11 +198,11 @@ I build scalable web applications and AI-powered systems using modern technologi
 
 <p align="center">
   
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pravin-rathod-237418303/)">
+  <a href="https://www.linkedin.com/in/pravin-rathod-237418303/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="[https://your-portfolio-link](https://pravin-rathod-git.github.io/MY-Portfolio/)">
+  <a href="https://pravin-rathod-git.github.io/MY-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
   </a>
 
